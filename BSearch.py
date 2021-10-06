@@ -15,6 +15,6 @@ while key!=list[midpoint]:
      midpoint=(start+end)//2
      print(midpoint)
         
-print(f"We found the element {key} in index: {midpoint} ")
-        
+print(f"We found the element {key} in index: {midpoint}")
+#Hi
         
